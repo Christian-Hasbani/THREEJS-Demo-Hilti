@@ -29,9 +29,9 @@ Integrate a **Hilti drill screw** 3D model into our web application using **Thre
 
 #### Option: 🌐 Online Conversion Tool (Used in this project)
 
-- Use the online converter at [https://blackthread.io/gltf-converter/](https://blackthread.io/gltf-converter/)
+- Use the online converter at [https://blackthread.io/gltf-converter/](https://imagetostl.com/convert/file/stp/to/gltf)
 - Upload the downloaded `.stp` file
-- Download the converted `.glb` file for use in the app
+- Download the converted `.gltf` file for use in the app
 
 *This method was chosen for simplicity and speed without needing additional software.*
 
